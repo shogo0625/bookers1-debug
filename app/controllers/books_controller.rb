@@ -15,7 +15,6 @@ class BooksController < ApplicationController
 
   # GET /books/1/edit
   def edit
-
   end
 
   # POST /books
